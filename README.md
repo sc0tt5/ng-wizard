@@ -1,6 +1,6 @@
 # Disclaimer
 
-This wizard is derived from [abdulkadirgenc/ng-wizard](https://github.com/abdulkadirgenc/ng-wizard), which currently has a [bug](https://github.com/abdulkadirgenc/ng-wizard/issues/1) that breaks lazy loading of modules when the wizard is outside of the main `AppComponent`. This package is temporarily published here until the [issue](https://github.com/abdulkadirgenc/ng-wizard/issues/1) is resolved. I intend to redirect this package to the original once the [PR](https://github.com/abdulkadirgenc/ng-wizard/pull/2) has been accepted and package updated on npm.
+Please use [ng-wizard](https://www.npmjs.com/package/ng-wizard) instead. This was a temporary package until this [bug](https://github.com/abdulkadirgenc/ng-wizard/issues/1) was fixed. The [PR](https://github.com/abdulkadirgenc/ng-wizard/pull/2) has been merged to master and updated on npm.
 
 # ng-wizard
 
